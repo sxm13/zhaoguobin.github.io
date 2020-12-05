@@ -1,10 +1,10 @@
 # ZHAO GUOBIN个人主页
 
 ## 教育经历 
-
-**BS**: Zhejiang Ocean University.         2014-2018.    
-**MS**: Jimei University.                  2018-2020.    
-**phD**: Pusan National University.        2020-Now.    
+**University__Major__Time:**      
+**BS**: Zhejiang Ocean University.           Marine Engineering(Ship Building and Repairi).       2014-2018.    
+**MS**: Jimei University.                    Naval Architecture and Ocean Engineering.            2018-2020.    
+**phD**: Pusan National University.          School of chemical engineering.                      2020-Now.    
 
 
 ## 研究领域
