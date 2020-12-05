@@ -1,6 +1,6 @@
 menu:
   home: /      //主页
-  categories: /categories //分类        （添加此行即可）
+  categories: /硕士工作 //分类        （添加此行即可）
   archives: /archives   //归档
   tags: /tags   //标签                  
   about: /about   //关于
