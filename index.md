@@ -4,7 +4,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**University**&ensp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Major**&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Time**      
 **B.S.**: Zhejiang Ocean University. &emsp; &ensp; Marine Engineering(Ship Building and Repairi). &emsp;    2014-2018.    
 **M.S.**: Jimei University.          &ensp; &emsp; &emsp;&emsp;&emsp; &emsp;Naval Architecture and Ocean Engineering.&ensp;&ensp; &emsp; &ensp;2018-2020.    
-**phD** : Pusan National University. &emsp; &emsp; School of chemical engineering. &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp; &ensp;&ensp;&ensp; &ensp; 2020-Now.    
+**phD** : Pusan National University. &emsp;  School of chemical engineering. &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;&emsp; &ensp;&ensp;&ensp; &ensp; 2020-Now.    
 
 
 ### 研究领域
