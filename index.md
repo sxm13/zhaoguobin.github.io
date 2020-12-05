@@ -16,7 +16,7 @@
 
 ### 曾获奖项    
      
- 优秀**硕士毕业论文**       
+ 优秀**硕士毕业论文**（甲烷在典型MOFs上的吸附储存研究[知网](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020961336.nh&uid=WEEvREcwSlJHSldSdmVqMDh6aSs3b2dEOXcrbmw2R1VuNGZtY004clozaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDg4NjllWnFGQ2psVzd2SVZGMjVIcnErSDlMUHFaRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZVo= "甲烷在典型MOFs上的吸附储存研究")。）       
  优秀**硕士毕业生**
 
 ### Chung教授课题组网站       
