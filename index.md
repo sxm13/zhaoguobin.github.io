@@ -3,7 +3,7 @@
 ### 教育经历 
 **University__Major__Time:**      
 **B.S.**: Zhejiang Ocean University. &emsp; &ensp; Marine Engineering(Ship Building and Repairi). &emsp;    2014-2018.    
-**M.S.**: Jimei University.          &ensp; &emsp; &emsp;&emsp;&emsp; &emsp;Naval Architecture and Ocean Engineering. &ensp; &emsp; &ensp;2018-2020.    
+**M.S.**: Jimei University.          &ensp; &emsp; &emsp;&emsp;&emsp; &emsp;Naval Architecture and Ocean Engineering.&ensp;&ensp; &emsp; &ensp;2018-2020.    
 **phD** : Pusan National University. &emsp; &emsp; School of chemical engineering. &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp; &ensp;&ensp;&ensp; &ensp; 2020-Now.    
 
 
