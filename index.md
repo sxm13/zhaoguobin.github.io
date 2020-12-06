@@ -21,8 +21,11 @@
       
 ### 已发表论文       
       
-1. **赵国斌**,郑青榕,张维东,张轩.甲烷在MIL-101上的吸附平衡分析及充放气特性[知网](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2020&filename=RLHX201912013&uid=WEEvREcwSlJHSldSdmVqMDh6aSs3b2dBVWNnTFQ4K0NTT2J4UnZDOHBvWT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTEwMzZVYnpNTnlIRGRyRzRIOWpOclk5RVo0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FlWmVacEZ5emw= "鄙人第一篇论文")。[J].燃料化学学报,2019,47(12):1529-1536.      
-2. **Zhao G B**, Zheng Q R, Zhang X, et al. Adsorption equilibrium and the effect of honeycomb heat exchanging device on charge/discharge characteristic of methane on MIL-101(Cr) and activated carbon [SciDirect](https://www.sciencedirect.com/science/article/abs/pii/S1004954120302111 "鄙人第二篇论文")。[J]. Chinese Journal of Chemical Engineering, 2020; 28(7): 1964-1972.
+1. **赵国斌**,郑青榕,张维东,张轩.甲烷在MIL-101上的吸附平衡分析及充放气特性 [知网](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2020&filename=RLHX201912013&uid=WEEvREcwSlJHSldSdmVqMDh6aSs3b2dBVWNnTFQ4K0NTT2J4UnZDOHBvWT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTEwMzZVYnpNTnlIRGRyRzRIOWpOclk5RVo0UjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FlWmVacEZ5emw= "鄙人第一篇论文")[J].燃料化学学报,2019,47(12):1529-1536.      
+2. **Zhao G B**, Zheng Q R, Zhang X, et al. Adsorption equilibrium and the effect of honeycomb heat exchanging device on charge/discharge characteristic of methane on MIL-101(Cr) and activated carbon [SciDirect](https://www.sciencedirect.com/science/article/abs/pii/S1004954120302111 "鄙人第二篇论文")[J]. Chinese Journal of Chemical Engineering, 2020; 28(7): 1964-1972.       
+3. Zhang X, Zheng Q R, **Zhao G B**, et al. Adsorption equilibrium and charge/discharge characteristics of hydrogen on MOFs [SciDirect](https://www.sciencedirect.com/science/article/abs/pii/S0011227520301235 "鄙人参与的篇论文")[J]. Cryogenics, 2020:103121.          
+4. 张轩,郑青榕,张维东,**赵国斌**.船舶机舱含油废水在膨胀石墨/活性炭复合吸附剂上的吸附研究 [知网](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2020&filename=JCKX202011021&uid=WEEvREcwSlJHSldSdmVqMDh6aSs3b2dBVWNnTFQ4K0NTT2J4UnZDOHBvWT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAwNzBITnJvOUhaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZVplWnBGeXptVXIvTkx5N0Fkckc0SE4= "鄙人参与的篇论文")[J].舰船科学技术,2020,42(11):105-109.      
+       
 ### 郑青榕教授课题组网站        
 
 福建省船舶与海洋工程实验室[新能源组](http://mei.jmu.edu.cn/info/1070/1126.htm "鄙人硕士就读的科研组")。
