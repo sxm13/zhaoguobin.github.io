@@ -19,6 +19,9 @@
  优秀**硕士毕业论文**（甲烷在典型MOFs上的吸附储存研究[知网](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020961336.nh&uid=WEEvREcwSlJHSldSdmVqMDh6aSs3b2dEOXcrbmw2R1VuNGZtY004clozaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDg4NjllWnFGQ2psVzd2SVZGMjVIcnErSDlMUHFaRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUjdxZVo= "甲烷在典型MOFs上的吸附储存研究")。）       
  优秀**硕士毕业生**
 
+### 郑青榕教授课题组网站        
+
+福建省船舶与海洋工程实验室[新能源组](http://mei.jmu.edu.cn/info/1070/1126.htm "鄙人硕士就读的科研组")。
 ### Chung教授课题组网站       
 
 计算材料与化学过程实验室[Lab of CMCP](https://cmcp-group.github.io/ "目前鄙人就读的科研组")。
