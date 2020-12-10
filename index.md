@@ -29,7 +29,7 @@
 ### 郑青榕教授课题组网站        
 
 福建省船舶与海洋工程实验室[新能源组](http://mei.jmu.edu.cn/info/1070/1126.htm "鄙人硕士就读的科研组")。
-### Chung教授课题组网站       
+### Chung Yongchul G.教授课题组网站       
 
 计算材料与化学过程实验室[Lab of CMCP](https://cmcp-group.github.io/ "目前鄙人就读的科研组")。
 ### 相关数据库链接      
