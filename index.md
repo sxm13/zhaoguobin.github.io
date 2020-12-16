@@ -42,8 +42,3 @@ NIST吸附数据查询[NIST Data](https://adsorption.nist.gov/index.php#home "Ad
 <div id="clockdiv"><canvas id="dom" width="180" height="180">您的浏览器不兼容canvas</canvas></div>
 <script type="text/javascript" src="https://blog-static.cnblogs.com/files/cyuanwu/clock.js"></script>
 
-<!-- 小企鹅游戏控件 -->
-<object type="application/x-shockwave-flash" style="outline:none;" data="http://cdn.abowman.com/widgets/penguins/penguins.swf?" width="240" height="160"><param name="movie" value="http://cdn.abowman.com/widgets/penguins/penguins.swf?"></param><param name="AllowScriptAccess" value="always"></param><param name="wmode" value="opaque"></param><param name="scale" value="noscale"/><param name="salign" value="tl"/></object>
-
-<!-- Fork me on GitHub -->
-<a href="https://github.com/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub"></a>
