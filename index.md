@@ -36,7 +36,11 @@
 coRE MOF database[MOFs 晶体库](https://zenodo.org/record/3677685#.X8uDkrniuUl "2019coRE MOF")。        
 GCMC计算程序[RASPA2](https://github.com/iRASPA/RASPA2 "Make by David")。         
 NIST吸附数据查询[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")。          
-无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")。            
+无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")。     
+吸附分离模拟软件[RASPA](https://github.com/numat/RASPA2/ "RASPA2.0")。
+分子动力学[Lammps](https://lammps.sandia.gov/ "Lammps")及自动生成MOFs的Lammps in文件和data文件[Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。
+第一性原理计算软件[cp2k](https://www.cp2k.org/ "cp2k")
+
 
 <!-- 时钟控件 -->
 <div id="clockdiv"><canvas id="dom" width="180" height="180">您的浏览器不兼容canvas</canvas></div>
