@@ -41,8 +41,10 @@ NIST吸附数据查询[NIST Data](https://adsorption.nist.gov/index.php#home "Ad
 吸附分离模拟软件[RASPA](https://github.com/numat/RASPA2/ "RASPA2.0")。              
 分子动力学[Lammps](https://lammps.sandia.gov/ "Lammps")及自动生成MOFs的Lammps in文件和data文件[Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。              
 第一性原理计算软件[cp2k](https://www.cp2k.org/ "cp2k")。            
-多孔材料表征软件[zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。               
-
+多孔材料表征软件[zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。    
+电荷计算[DDEC](https://sourceforge.net/projects/ddec/ "DDEC")。         
+吸附与分离模型拟合模块[pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")。               
+吸附量数据库[NIST](https://adsorption.nist.gov/index.php#home/ "NIST")。               
 
 <!-- 时钟控件 -->
 <div id="clockdiv"><canvas id="dom" width="180" height="180">您的浏览器不兼容canvas</canvas></div>
