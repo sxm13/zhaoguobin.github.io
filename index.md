@@ -35,10 +35,9 @@
 计算材料与化学过程实验室[Lab of CMCP](https://cmcp-group.github.io/ "目前鄙人就读的科研组")。
 ### 相关数据库及软件链接      
 coRE MOF database[MOFs 晶体库](https://zenodo.org/record/3677685#.X8uDkrniuUl "2019coRE MOF")。        
-GCMC计算程序[RASPA2](https://github.com/iRASPA/RASPA2 "Make by David")。         
+GCMC吸附分离计算程序[RASPA2](https://github.com/iRASPA/RASPA2 "Make by David")。         
 NIST吸附数据查询[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")。          
-无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")。     
-吸附分离模拟软件[RASPA](https://github.com/numat/RASPA2/ "RASPA2.0")。              
+无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")。                   
 分子动力学[Lammps](https://lammps.sandia.gov/ "Lammps")及自动生成MOFs的Lammps in文件和data文件[Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。              
 第一性原理计算软件[cp2k](https://www.cp2k.org/ "cp2k")。            
 多孔材料表征软件[zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。    
