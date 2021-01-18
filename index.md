@@ -9,7 +9,8 @@
 
 ### 研究领域
 
- GCMC高通量计算    
+ GCMC高通量筛选   
+ 分子动力学
  DFT计算    
  机器学习-多孔材料    
 
@@ -37,9 +38,10 @@ coRE MOF database[MOFs 晶体库](https://zenodo.org/record/3677685#.X8uDkrniuUl
 GCMC计算程序[RASPA2](https://github.com/iRASPA/RASPA2 "Make by David")。         
 NIST吸附数据查询[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")。          
 无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")。     
-吸附分离模拟软件[RASPA](https://github.com/numat/RASPA2/ "RASPA2.0")。
-分子动力学[Lammps](https://lammps.sandia.gov/ "Lammps")及自动生成MOFs的Lammps in文件和data文件[Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。
-第一性原理计算软件[cp2k](https://www.cp2k.org/ "cp2k")
+吸附分离模拟软件[RASPA](https://github.com/numat/RASPA2/ "RASPA2.0")。              
+分子动力学[Lammps](https://lammps.sandia.gov/ "Lammps")及自动生成MOFs的Lammps in文件和data文件[Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。              
+第一性原理计算软件[cp2k](https://www.cp2k.org/ "cp2k")。            
+多孔材料表征软件[zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。               
 
 
 <!-- 时钟控件 -->
