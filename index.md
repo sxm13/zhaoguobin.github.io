@@ -39,7 +39,7 @@ GCMC吸附分离计算程序[RASPA2](https://github.com/iRASPA/RASPA2 "Make by D
 NIST吸附数据查询[NIST Data](https://adsorption.nist.gov/index.php#home "Adsorption data")。          
 无机化合物材料库[Materials Project](https://materialsproject.org/ "Materials project")。                   
 分子动力学[Lammps](https://lammps.sandia.gov/ "Lammps")及自动生成MOFs的Lammps in文件和data文件[Lammps-interface](https://github.com/peteboyd/lammps_interface/ "Lammps-interface")。              
-第一性原理计算软件[cp2k](https://www.cp2k.org/ "cp2k")。            
+第一性原理计算软件[cp2k](https://www.cp2k.org/ "cp2k")及输入文件脚本[cp2k-editor](https://github.com/avishart/CP2K_Editor/ "cp2k-editor")。            
 多孔材料表征软件[zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。    
 电荷计算[DDEC](https://sourceforge.net/projects/ddec/ "DDEC")。         
 吸附与分离模型拟合模块[pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")。               
