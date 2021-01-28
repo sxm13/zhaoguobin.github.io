@@ -42,8 +42,7 @@ NIST吸附数据查询[NIST Data](https://adsorption.nist.gov/index.php#home "Ad
 第一性原理计算软件[cp2k](https://www.cp2k.org/ "cp2k")及输入文件脚本[cp2k-editor](https://github.com/avishart/CP2K_Editor/ "cp2k-editor")。            
 多孔材料表征软件[zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。    
 电荷计算[DDEC](https://sourceforge.net/projects/ddec/ "DDEC")。         
-吸附与分离模型拟合模块[pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")。               
-吸附量数据库[NIST](https://adsorption.nist.gov/index.php#home/ "NIST")。               
+吸附与分离模型拟合模块[pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")。                
 可视化软件[VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")。               
 <!-- 时钟控件 -->
 <div id="clockdiv"><canvas id="dom" width="180" height="180">您的浏览器不兼容canvas</canvas></div>
