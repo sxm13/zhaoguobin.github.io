@@ -43,7 +43,11 @@ NIST吸附数据查询[NIST Data](https://adsorption.nist.gov/index.php#home "Ad
 多孔材料表征软件[zeo++](http://www.zeoplusplus.org/ "zeo++") 及python计算模块[pygaps](https://pygaps.readthedocs.io/en/master/ "pygaps")。    
 电荷计算[DDEC](https://sourceforge.net/projects/ddec/ "DDEC")。         
 吸附与分离模型拟合模块[pyIAST](https://github.com/CorySimon/pyIAST/ "pyIAST")。                
-可视化软件[VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")。               
+可视化软件[VMD](https://www.ks.uiuc.edu/Research/vmd/ "VMD")。              
+
+![MOF](/images/sxm.jpg)
+
+
 <!-- 时钟控件 -->
 <div id="clockdiv"><canvas id="dom" width="180" height="180">您的浏览器不兼容canvas</canvas></div>
 <script type="text/javascript" src="https://blog-static.cnblogs.com/files/cyuanwu/clock.js"></script>
